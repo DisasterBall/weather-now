@@ -1,0 +1,9 @@
+{
+    "unexpected_error": "Unexpected error!",
+    "not_authorized": "Not authorized",
+    "no_access": "No access",
+    "incorrect_email_or_password_or_username": "Incorrect email or password or username",
+    "user_with_this_email_already_exists": "User with this email already exists",
+    "user_is_not_found": "User is not found",
+    "wrong_password_specified": "Wrong password specified"
+}

@@ -1,0 +1,9 @@
+{
+    "unexpected_error": "Непередбачена помилка!",
+    "not_authorized": "Не авторизовано",
+    "no_access": "Немає доступу",
+    "incorrect_email_or_password_or_username": "Неправильна електронна адреса, пароль або ім'я користувача",
+    "user_with_this_email_already_exists": "Користувач із цією електронною адресою вже існує",
+    "user_is_not_found": "Користувач не знайдений",
+    "wrong_password_specified": "Вказано неправильний пароль"
+}
